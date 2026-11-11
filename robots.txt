@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vivianeambrosioo.github.io/portfolio-viviane-ambrosio/sitemap.xml
